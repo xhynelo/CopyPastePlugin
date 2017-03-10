@@ -1,0 +1,5 @@
+[
+	{ "keys": ["ctrl+shift+v"], "command": "duplicate" },
+	{ "keys": ["ctrl+shift+z"], "command": "muda" },
+	{ "keys": ["ctrl+shift+x"], "command": "rapido" }
+]

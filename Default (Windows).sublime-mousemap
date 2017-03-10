@@ -1,0 +1,5 @@
+[
+	{ "button": "button3", "modifiers": [], "command": "duplicate" },
+	{ "button": "button5", "modifiers": [], "command": "muda" },
+	{ "button": "button4", "modifiers": [], "command": "rapido" }
+]
